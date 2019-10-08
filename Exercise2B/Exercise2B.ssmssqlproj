@@ -8,7 +8,62 @@
       <Items />
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
-      <Items />
+      <Items>
+        <FileNode Name="2B.1.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>2B.1.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="2B.2.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>2B.2.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="2B.3.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>2B.3.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="2B.4.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>2B.4.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="2B.5.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>2B.5.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="2B.6.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>2B.6.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="2B.7.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>2B.7.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="2B.8.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>2B.8.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="2B.9.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>2B.9.PNG</FullPath>
+        </FileNode>
+      </Items>
     </LogicalFolder>
   </Items>
 </SqlWorkbenchSqlProject>
